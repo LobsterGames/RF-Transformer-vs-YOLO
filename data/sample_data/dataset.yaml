@@ -1,0 +1,7 @@
+path: /home/evan/RF-Transformer-vs-YOLO/data/sample_data
+train: images/train
+val: images/val
+
+names:
+  0: psk
+  1: qam
